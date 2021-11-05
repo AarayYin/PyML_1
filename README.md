@@ -1,1 +1,2 @@
-# Here is the Jupyter file of 2021.11.1-2021.11.5 Python and Machine Learning course
+# Here is the Jupyter file for the 1st Python and Machine Learning course
+## Course data: 2021.11.1-2021.11.5 
